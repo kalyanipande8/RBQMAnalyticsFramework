@@ -1,0 +1,313 @@
+indicator_id,trial_id,domain,control_limit,unit,category
+KRI-0001,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0002,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0003,TRIAL-01,Protocol compliance,8.0,% deviations,borderline
+KRI-0004,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0005,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0006,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0007,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0008,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0009,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0010,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0011,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0012,TRIAL-01,Protocol compliance,8.0,% deviations,stable
+KRI-0013,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0014,TRIAL-01,Data quality,12.0,open queries / 100 pages,borderline
+KRI-0015,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0016,TRIAL-01,Data quality,12.0,open queries / 100 pages,true_risk
+KRI-0017,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0018,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0019,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0020,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0021,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0022,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0023,TRIAL-01,Data quality,12.0,open queries / 100 pages,stable
+KRI-0024,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0025,TRIAL-01,Enrollment,15.0,% behind plan,true_risk
+KRI-0026,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0027,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0028,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0029,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0030,TRIAL-01,Enrollment,15.0,% behind plan,true_risk
+KRI-0031,TRIAL-01,Enrollment,15.0,% behind plan,true_risk
+KRI-0032,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0033,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0034,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0035,TRIAL-01,Enrollment,15.0,% behind plan,stable
+KRI-0036,TRIAL-02,Protocol compliance,8.0,% deviations,true_risk
+KRI-0037,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0038,TRIAL-02,Protocol compliance,8.0,% deviations,true_risk
+KRI-0039,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0040,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0041,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0042,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0043,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0044,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0045,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0046,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0047,TRIAL-02,Protocol compliance,8.0,% deviations,stable
+KRI-0048,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0049,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0050,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0051,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0052,TRIAL-02,Data quality,12.0,open queries / 100 pages,true_risk
+KRI-0053,TRIAL-02,Data quality,12.0,open queries / 100 pages,true_risk
+KRI-0054,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0055,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0056,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0057,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0058,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0059,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0060,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0061,TRIAL-02,Data quality,12.0,open queries / 100 pages,stable
+KRI-0062,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0063,TRIAL-02,Enrollment,15.0,% behind plan,true_risk
+KRI-0064,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0065,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0066,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0067,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0068,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0069,TRIAL-02,Enrollment,15.0,% behind plan,borderline
+KRI-0070,TRIAL-02,Enrollment,15.0,% behind plan,true_risk
+KRI-0071,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0072,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0073,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0074,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0075,TRIAL-02,Enrollment,15.0,% behind plan,stable
+KRI-0076,TRIAL-02,Enrollment,15.0,% behind plan,true_risk
+KRI-0077,TRIAL-03,Protocol compliance,8.0,% deviations,true_risk
+KRI-0078,TRIAL-03,Protocol compliance,8.0,% deviations,true_risk
+KRI-0079,TRIAL-03,Protocol compliance,8.0,% deviations,borderline
+KRI-0080,TRIAL-03,Protocol compliance,8.0,% deviations,true_risk
+KRI-0081,TRIAL-03,Protocol compliance,8.0,% deviations,borderline
+KRI-0082,TRIAL-03,Protocol compliance,8.0,% deviations,stable
+KRI-0083,TRIAL-03,Protocol compliance,8.0,% deviations,stable
+KRI-0084,TRIAL-03,Protocol compliance,8.0,% deviations,stable
+KRI-0085,TRIAL-03,Protocol compliance,8.0,% deviations,stable
+KRI-0086,TRIAL-03,Protocol compliance,8.0,% deviations,stable
+KRI-0087,TRIAL-03,Protocol compliance,8.0,% deviations,stable
+KRI-0088,TRIAL-03,Protocol compliance,8.0,% deviations,stable
+KRI-0089,TRIAL-03,Protocol compliance,8.0,% deviations,stable
+KRI-0090,TRIAL-03,Protocol compliance,8.0,% deviations,true_risk
+KRI-0091,TRIAL-03,Protocol compliance,8.0,% deviations,borderline
+KRI-0092,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0093,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0094,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0095,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0096,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0097,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0098,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0099,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0100,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0101,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0102,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0103,TRIAL-03,Data quality,12.0,open queries / 100 pages,stable
+KRI-0104,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0105,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0106,TRIAL-03,Enrollment,15.0,% behind plan,borderline
+KRI-0107,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0108,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0109,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0110,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0111,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0112,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0113,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0114,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0115,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0116,TRIAL-03,Enrollment,15.0,% behind plan,stable
+KRI-0117,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0118,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0119,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0120,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0121,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0122,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0123,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0124,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0125,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0126,TRIAL-04,Protocol compliance,8.0,% deviations,stable
+KRI-0127,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0128,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0129,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0130,TRIAL-04,Data quality,12.0,open queries / 100 pages,borderline
+KRI-0131,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0132,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0133,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0134,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0135,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0136,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0137,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0138,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0139,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0140,TRIAL-04,Data quality,12.0,open queries / 100 pages,stable
+KRI-0141,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0142,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0143,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0144,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0145,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0146,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0147,TRIAL-04,Enrollment,15.0,% behind plan,true_risk
+KRI-0148,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0149,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0150,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0151,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0152,TRIAL-04,Enrollment,15.0,% behind plan,true_risk
+KRI-0153,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0154,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0155,TRIAL-04,Enrollment,15.0,% behind plan,stable
+KRI-0156,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0157,TRIAL-05,Protocol compliance,8.0,% deviations,true_risk
+KRI-0158,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0159,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0160,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0161,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0162,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0163,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0164,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0165,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0166,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0167,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0168,TRIAL-05,Protocol compliance,8.0,% deviations,stable
+KRI-0169,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0170,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0171,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0172,TRIAL-05,Data quality,12.0,open queries / 100 pages,true_risk
+KRI-0173,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0174,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0175,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0176,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0177,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0178,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0179,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0180,TRIAL-05,Data quality,12.0,open queries / 100 pages,stable
+KRI-0181,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0182,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0183,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0184,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0185,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0186,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0187,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0188,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0189,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0190,TRIAL-05,Enrollment,15.0,% behind plan,true_risk
+KRI-0191,TRIAL-05,Enrollment,15.0,% behind plan,true_risk
+KRI-0192,TRIAL-05,Enrollment,15.0,% behind plan,true_risk
+KRI-0193,TRIAL-05,Enrollment,15.0,% behind plan,stable
+KRI-0194,TRIAL-05,Enrollment,15.0,% behind plan,borderline
+KRI-0195,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0196,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0197,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0198,TRIAL-06,Protocol compliance,8.0,% deviations,true_risk
+KRI-0199,TRIAL-06,Protocol compliance,8.0,% deviations,true_risk
+KRI-0200,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0201,TRIAL-06,Protocol compliance,8.0,% deviations,borderline
+KRI-0202,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0203,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0204,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0205,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0206,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0207,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0208,TRIAL-06,Protocol compliance,8.0,% deviations,true_risk
+KRI-0209,TRIAL-06,Protocol compliance,8.0,% deviations,stable
+KRI-0210,TRIAL-06,Data quality,12.0,open queries / 100 pages,stable
+KRI-0211,TRIAL-06,Data quality,12.0,open queries / 100 pages,stable
+KRI-0212,TRIAL-06,Data quality,12.0,open queries / 100 pages,stable
+KRI-0213,TRIAL-06,Data quality,12.0,open queries / 100 pages,stable
+KRI-0214,TRIAL-06,Data quality,12.0,open queries / 100 pages,borderline
+KRI-0215,TRIAL-06,Data quality,12.0,open queries / 100 pages,borderline
+KRI-0216,TRIAL-06,Data quality,12.0,open queries / 100 pages,stable
+KRI-0217,TRIAL-06,Data quality,12.0,open queries / 100 pages,true_risk
+KRI-0218,TRIAL-06,Data quality,12.0,open queries / 100 pages,stable
+KRI-0219,TRIAL-06,Data quality,12.0,open queries / 100 pages,borderline
+KRI-0220,TRIAL-06,Data quality,12.0,open queries / 100 pages,borderline
+KRI-0221,TRIAL-06,Data quality,12.0,open queries / 100 pages,borderline
+KRI-0222,TRIAL-06,Data quality,12.0,open queries / 100 pages,stable
+KRI-0223,TRIAL-06,Data quality,12.0,open queries / 100 pages,stable
+KRI-0224,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0225,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0226,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0227,TRIAL-06,Enrollment,15.0,% behind plan,true_risk
+KRI-0228,TRIAL-06,Enrollment,15.0,% behind plan,true_risk
+KRI-0229,TRIAL-06,Enrollment,15.0,% behind plan,true_risk
+KRI-0230,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0231,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0232,TRIAL-06,Enrollment,15.0,% behind plan,true_risk
+KRI-0233,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0234,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0235,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0236,TRIAL-06,Enrollment,15.0,% behind plan,stable
+KRI-0237,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0238,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0239,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0240,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0241,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0242,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0243,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0244,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0245,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0246,TRIAL-07,Protocol compliance,8.0,% deviations,true_risk
+KRI-0247,TRIAL-07,Protocol compliance,8.0,% deviations,true_risk
+KRI-0248,TRIAL-07,Protocol compliance,8.0,% deviations,stable
+KRI-0249,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0250,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0251,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0252,TRIAL-07,Data quality,12.0,open queries / 100 pages,true_risk
+KRI-0253,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0254,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0255,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0256,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0257,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0258,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0259,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0260,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0261,TRIAL-07,Data quality,12.0,open queries / 100 pages,stable
+KRI-0262,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0263,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0264,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0265,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0266,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0267,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0268,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0269,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0270,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0271,TRIAL-07,Enrollment,15.0,% behind plan,true_risk
+KRI-0272,TRIAL-07,Enrollment,15.0,% behind plan,stable
+KRI-0273,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0274,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0275,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0276,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0277,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0278,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0279,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0280,TRIAL-08,Protocol compliance,8.0,% deviations,borderline
+KRI-0281,TRIAL-08,Protocol compliance,8.0,% deviations,true_risk
+KRI-0282,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0283,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0284,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0285,TRIAL-08,Protocol compliance,8.0,% deviations,true_risk
+KRI-0286,TRIAL-08,Protocol compliance,8.0,% deviations,stable
+KRI-0287,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0288,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0289,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0290,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0291,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0292,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0293,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0294,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0295,TRIAL-08,Data quality,12.0,open queries / 100 pages,true_risk
+KRI-0296,TRIAL-08,Data quality,12.0,open queries / 100 pages,stable
+KRI-0297,TRIAL-08,Data quality,12.0,open queries / 100 pages,true_risk
+KRI-0298,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0299,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0300,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0301,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0302,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0303,TRIAL-08,Enrollment,15.0,% behind plan,true_risk
+KRI-0304,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0305,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0306,TRIAL-08,Enrollment,15.0,% behind plan,borderline
+KRI-0307,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0308,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0309,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0310,TRIAL-08,Enrollment,15.0,% behind plan,true_risk
+KRI-0311,TRIAL-08,Enrollment,15.0,% behind plan,stable
+KRI-0312,TRIAL-08,Enrollment,15.0,% behind plan,stable

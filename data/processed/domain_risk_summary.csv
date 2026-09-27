@@ -1,0 +1,4 @@
+domain,n_indicator_weeks,n_indicators,ground_truth_risk_weeks,detected_risk_weeks,accuracy,accuracy_pct
+Data quality,1212,101,55,49,0.9851485148514851,98.51
+Enrollment,1296,108,70,49,0.9837962962962963,98.38
+Protocol compliance,1236,103,69,53,0.9854368932038835,98.54
